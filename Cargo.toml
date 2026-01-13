@@ -7,3 +7,4 @@ edition = "2021"
 macroquad = "0.4"
 hostname = "0.4"
 chrono = "0.4"
+sysinfo = { version = "0.37.2", features = ["network"] }
