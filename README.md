@@ -44,6 +44,9 @@ The project uses Rust tools to read system metrics and display them in real-time
 
 ## Credits
 Author: 1ym3k
+
 Font: TeX Gyre Adventor by GUST e-foundry (B. Jackowski and J. M. Nowacki).
+
 Art: Logo by Yoshitaka Amano for Square Enix.
+
 Inspiration: Visual style inspired by Final Fantasy XV Windows Edition.
