@@ -29,7 +29,7 @@ This project was created for learning purposes. It allows user to monitor system
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/1ym3k/systemMonitor.git](https://github.com/1ym3k/systemMonitor.git)
+   git clone https://github.com/1ym3k/systemMonitor.git
    cd systemMonitor
    ```
 2. Build the project:
