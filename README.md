@@ -1,5 +1,5 @@
 
-##sysmon
+## sysmon
 sysmon (systemMonitor) — a simple, educational system monitor written in Rust for Linux / WSL.
 
 This project was created for learning purposes. It allows user to monitor system statistics such as CPU usage, memory, and process information. It is an educational project and not intended for professional use.
