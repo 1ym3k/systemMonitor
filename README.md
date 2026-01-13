@@ -1,6 +1,6 @@
 
-## sysmon
-sysmon (systemMonitor) — a simple, educational system monitor written in Rust for Linux / WSL.
+## Sysmon
+Sysmon (systemMonitor) — a simple, educational system monitor written in Rust for Linux / WSL.
 
 This project was created for learning purposes. It allows user to monitor system statistics such as CPU usage, memory, and process information. It is an educational project and not intended for professional use.
 
@@ -41,3 +41,9 @@ This project was created for learning purposes. It allows user to monitor system
    ```
 ## How it works
 The project uses Rust tools to read system metrics and display them in real-time. The interface is inspired by modern RPG HUDs seen in modern titles like Final Fantasy XV.
+
+## Credits
+Author: 1ym3k
+Font: TeX Gyre Adventor by GUST e-foundry (B. Jackowski and J. M. Nowacki).
+Art: Logo by Yoshitaka Amano for Square Enix.
+Inspiration: Visual style inspired by Final Fantasy XV Windows Edition.
